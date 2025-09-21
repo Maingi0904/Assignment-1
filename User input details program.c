@@ -9,14 +9,14 @@
 //main function
 int main(){
      int height;
-     int bankbalance;
+     float bankbalance;
      int phonenumber;
 
      printf("Enter your height:\n");
      scanf("%d",&height);
 
      printf("Enter bankbalance:\n");
-     scanf("%d",&bankbalance);
+     scanf("%f",&bankbalance);
 
      printf("Enter your phonenumber:\n");
      scanf("%d",&phonenumber);
