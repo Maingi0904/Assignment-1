@@ -29,7 +29,7 @@ int main(){
    }
 
 
-   printf("The total bill is:%.2lf\n",Total_bill);
+   printf("The total bill is:%.2lf(KES)\n",Total_bill);
  return 0;
 }
 
