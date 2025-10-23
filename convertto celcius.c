@@ -10,7 +10,7 @@ Description:A c program that inputs temperature in fahrenheit and outputs temper
 
 float celcius(float F);
 
-void main(){
+int main(){
     float result,F;
     printf("Enter fahrenheit\n");
     scanf("%f",&F);
