@@ -1,7 +1,7 @@
 
 /*
 Name:Immaculate  Nyambura Maingi
-Date:09/10/2025
+Date:23/10/2025
 RegNO:CT101/G/26509/25
 Description:A c program that inputs temperature in fahrenheit and outputs temperature in celcius
 */
