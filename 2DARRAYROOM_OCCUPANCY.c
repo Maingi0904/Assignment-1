@@ -8,6 +8,8 @@ Description:A program for assigning and tracking the rooms occupied and number o
 
 
 #include <stdio.h>
+#include<stdlib.h>
+#include<time.h>
 
 int main() {
     int occupancy[5][10];
@@ -17,7 +19,7 @@ int main() {
     // Assign random occupancy
     for (int i = 0; i < 5; i++) {
         for (int j = 0; j < 10; j++) {
-            occupancy[i][j] = rand() % 2; // 0 or 1
+            occupancy[i][j] = srand() % 2; // 0 or 1
         }
     }
 
