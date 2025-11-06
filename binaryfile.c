@@ -2,7 +2,7 @@
 Name:Immaculate Nyambura Maingi
 RegNo:CT101/G/26509/25
 Date: 06/11/2025
-Description:A program for tracking books borrowed
+Description:A program for student information
 */
 
 
